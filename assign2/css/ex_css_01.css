@@ -1,6 +1,15 @@
-h1 {color: rgb(69, 48, 138);}
+h1 {color: green;}
 p {
     font-size: 20px;
     color: brown;
-    text-align: right;
+    text-align: center;
+    
+}
+.content{
+    background: rgb(161, 116, 116);
+}
+.content h1{
+    color: rgb(37, 24, 224)
+}div h1{
+    font-size: 380%;
 }
