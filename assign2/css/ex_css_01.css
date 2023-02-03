@@ -6,6 +6,13 @@ p {
     
 }
 .content{
+    background: white;
+    padding: 20px;
+    margin: 20px;
+    border: 5px solid green;
+    
+}
+.content{
     background: rgb(161, 116, 116);
 }
 .content h1{
