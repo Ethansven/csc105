@@ -58,7 +58,7 @@
     margin-top:70px;
     border: black solid;
     background-color: antiquewhite    ;
-    position: relative;
+    float: left;
     width: 800px;
     padding-bottom: 45px;
     
